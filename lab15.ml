@@ -59,7 +59,7 @@ LazyStreams module provided there and its Exercise 6.
 (* Now we can redo the Fibonacci example. First, we open the
 NativeLazyStreams module so we can use its bits more easily. *)
 
-open NativeLazyStreams_soln ;;
+open NativeLazyStreams ;;
 
 
     (* Digression: We've just opened NativeLazyStreams above, so we can
